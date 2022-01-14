@@ -1,2 +1,26 @@
-.banner{
+ul{
+color: #000000;
+text-shadow: 2px 3px 4px #838;
+background-color: rgb(245, 3, 3);
+width: 400px;
+text-shadow: 2px 3px 4px #1a3535;
+border: 4px solid;
+}
+ol{
+color: #1a3535;
+font-size: 20px;
+color: rgb(0, 0, 0);
+border: 4px solid;
+}
+li{
+color: #000000;
+background-color: chartreuse;
+border: 3px solid;
+box-shadow: 12px 13px 14px ;
+
+}
+div{
+border: 2px solid#1a3535;
+width: 300px;
+
 }
